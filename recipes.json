@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "name": "Akara & Pap (Bean Cakes with Fermented Corn Porridge)",
+    "category": "breakfast",
+    "image": "assets/images/akara.jpg",
+    "description": "Crispy golden-brown bean cakes paired with smooth, slightly tangy pap (ogi). A classic Nigerian breakfast.",
+    "ingredients": [
+      "2 cups peeled beans (black-eyed peas or brown beans)",
+      "1 medium onion",
+      "2 scotch bonnet peppers",
+      "Salt to taste",
+      "Vegetable oil for deep frying",
+      "2 cups pap (ogi)"
+    ],
+    "steps": [
+      "Soak peeled beans in water for about 10 minutes, then blend with onions and peppers until smooth and thick.",
+      "Season the paste with salt and stir vigorously for 5 minutes to incorporate air — this makes the akara fluffy.",
+      "Heat vegetable oil in a deep pan until moderately hot (test with a drop of batter; it should sizzle immediately).",
+      "Scoop spoonfuls of the bean paste gently into the oil, making sure not to overcrowd the pan.",
+      "Fry on medium heat until the edges turn golden brown, then flip and fry the other side until crispy and fully cooked inside.",
+      "Drain akara on paper towels and serve hot with freshly prepared pap (ogi)."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Moi Moi (Steamed Bean Pudding)",
+    "category": "breakfast",
+    "image": "assets/images/moimoi.jpg",
+    "description": "Steamed bean pudding made with ground beans, peppers, and spices, often wrapped in leaves or foil.",
+    "ingredients": [
+      "2 cups peeled beans",
+      "2 red bell peppers",
+      "1 onion",
+      "2 tbsp palm oil",
+      "1 tbsp ground crayfish",
+      "2 seasoning cubes",
+      "Salt to taste",
+      "Water (as needed)",
+      "Moi Moi leaves or aluminum foil"
+    ],
+    "steps": [
+      "Blend peeled beans, red bell peppers, and onion with water until you achieve a smooth paste.",
+      "Add palm oil, crayfish, seasoning cubes, and salt. Mix thoroughly to create a rich batter.",
+      "Scoop batter into moi moi leaves (folded into cones) or greased aluminum foil containers.",
+      "Arrange the wrapped batter in a large pot, add water to the bottom (without submerging), and cover tightly.",
+      "Steam on low to medium heat for 45–60 minutes, checking water level occasionally and topping up if necessary.",
+      "Test doneness by inserting a toothpick in the center — it should come out clean. Serve warm with pap, bread, or rice."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Agege Bread with Akamu (Pap)",
+    "category": "breakfast",
+    "image": "assets/images/agegebread.jpg",
+    "description": "Soft, chewy Agege bread served with smooth pap (ogi) — a true Lagos breakfast staple.",
+    "ingredients": [
+      "4 slices Agege bread",
+      "2 cups pap (ogi)",
+      "Evaporated milk (optional)",
+      "Sugar or honey (to taste)"
+    ],
+    "steps": [
+      "Prepare pap by mixing the fermented corn paste with cold water, stirring to form a slurry.",
+      "Boil water and pour gradually into the slurry while stirring continuously until thick and smooth.",
+      "Sweeten pap with sugar or honey and add a splash of evaporated milk if desired.",
+      "Serve hot with soft slices of Agege bread on the side."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jollof Rice",
+    "category": "lunch",
+    "image": "assets/images/jollof.jpg",
+    "description": "Smoky Nigerian party-style Jollof rice cooked in a rich tomato-pepper base.",
+    "ingredients": [
+      "4 cups long-grain parboiled rice",
+      "5 large tomatoes",
+      "2 red bell peppers",
+      "2 onions",
+      "2 scotch bonnet peppers",
+      "1/4 cup vegetable oil",
+      "Seasoning cubes",
+      "1 tsp thyme",
+      "1 tsp curry powder",
+      "2 cups chicken or beef stock"
+    ],
+    "steps": [
+      "Blend tomatoes, bell peppers, scotch bonnets, and one onion into a smooth paste.",
+      "Heat oil in a large pot, sauté sliced onions until fragrant, then add the blended paste.",
+      "Fry the mixture on medium heat until it reduces and the oil begins to float to the top — about 12–15 minutes.",
+      "Stir in thyme, curry, seasoning cubes, and stock. Mix well.",
+      "Add parboiled rice, stir to coat with sauce, then cover with foil or parchment before placing the pot lid to trap steam.",
+      "Cook on low heat until rice is tender and smoky. Stir occasionally to prevent burning, but a little bottom crust is desirable.",
+      "Serve hot with fried plantains, salad, or grilled chicken."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ofada Rice with Ayamase (Designer Stew)",
+    "category": "lunch",
+    "image": "assets/images/ofada.jpg",
+    "description": "Local unpolished Ofada rice served with spicy green pepper stew (Ayamase).",
+    "ingredients": [
+      "3 cups Ofada rice",
+      "10 green bell peppers",
+      "6 scotch bonnet peppers",
+      "2 onions",
+      "1/2 cup palm oil",
+      "Assorted meats (shaki, goat meat, beef)",
+      "Seasoning cubes",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Cook Ofada rice in salted water until soft. Rinse off excess starch if necessary.",
+      "Blend green bell peppers, scotch bonnets, and one onion into a coarse paste.",
+      "Heat palm oil until slightly bleached (about 5 minutes on medium heat).",
+      "Add sliced onions and fry until translucent, then stir in the pepper blend.",
+      "Cook on medium heat, stirring often, until the stew thickens and the raw taste disappears.",
+      "Add cooked assorted meats, seasoning cubes, and salt. Simmer for 10–15 minutes.",
+      "Serve piping hot with Ofada rice."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Egusi Soup with Pounded Yam",
+    "category": "lunch",
+    "image": "assets/images/egusi.jpg",
+    "description": "Rich melon seed soup cooked with vegetables and assorted meats, best enjoyed with pounded yam.",
+    "ingredients": [
+      "2 cups ground egusi seeds",
+      "1/2 cup palm oil",
+      "Assorted meats and stockfish",
+      "2 cups vegetable leaves (bitterleaf or spinach)",
+      "2 scotch bonnet peppers",
+      "1 onion",
+      "Seasoning cubes",
+      "Pounded yam (for serving)"
+    ],
+    "steps": [
+      "Mix ground egusi with a little water to form a thick paste.",
+      "Heat palm oil in a pot and add the egusi paste, frying gently until it becomes grainy and aromatic.",
+      "Blend peppers and onion into a smooth mixture and add to the egusi. Stir well.",
+      "Pour in meat stock and add meats and stockfish. Simmer on medium heat for 15 minutes.",
+      "Add vegetable leaves, seasoning cubes, and salt. Stir and cook for another 5 minutes.",
+      "Serve hot with freshly pounded yam."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Efo Riro (Spinach Stew)",
+    "category": "dinner",
+    "image": "assets/images/eforiro.jpg",
+    "description": "A Yoruba-style spinach stew cooked with palm oil, peppers, and meats.",
+    "ingredients": [
+      "3 bunches spinach (or ugu leaves)",
+      "1/3 cup palm oil",
+      "3 red bell peppers",
+      "2 scotch bonnet peppers",
+      "1 onion",
+      "Assorted meats or fish",
+      "Seasoning cubes",
+      "Salt"
+    ],
+    "steps": [
+      "Blend peppers and onion into a coarse paste.",
+      "Heat palm oil in a pot and fry the mixture until it reduces and thickens.",
+      "Add meats or fish and pour in a little stock. Simmer for 10 minutes.",
+      "Add chopped spinach, stir, and cook for just 3–5 minutes to preserve nutrients and color.",
+      "Serve hot with rice, yam, or amala."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Okra Soup",
+    "category": "dinner",
+    "image": "assets/images/okra.jpg",
+    "description": "Delicious slimy okra soup prepared with meats, palm oil, and leafy greens.",
+    "ingredients": [
+      "3 cups fresh okra",
+      "1/4 cup palm oil",
+      "Assorted meats and fish",
+      "Seasoning cubes",
+      "1 onion",
+      "2 cups ugu leaves"
+    ],
+    "steps": [
+      "Chop okra finely or blend lightly for a slimy texture.",
+      "Cook meats and fish with onions, seasoning, and stock until tender.",
+      "Add palm oil and stir in the okra, cooking on low heat while stirring continuously.",
+      "Add ugu leaves and adjust seasoning. Cook for 3 more minutes.",
+      "Serve with eba, amala, or pounded yam."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ogbono Soup",
+    "category": "dinner",
+    "image": "assets/images/ogbono.jpg",
+    "description": "Rich, drawy soup made from ground ogbono seeds.",
+    "ingredients": [
+      "1 cup ground ogbono seeds",
+      "1/4 cup palm oil",
+      "Assorted meats",
+      "Stockfish",
+      "Ugu or bitterleaf",
+      "Seasoning cubes",
+      "1 onion"
+    ],
+    "steps": [
+      "Heat palm oil gently in a pot, then stir in ground ogbono until it dissolves.",
+      "Add stock gradually while stirring to avoid lumps. The soup should thicken and draw.",
+      "Add cooked meats, stockfish, and seasoning. Simmer on low heat for 15 minutes.",
+      "Add leafy greens last and cook for 5 minutes.",
+      "Serve hot with pounded yam, eba, or semo."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Nsala Soup (White Soup)",
+    "category": "dinner",
+    "image": "assets/images/nsala.jpg",
+    "description": "A light, peppery soup made without palm oil, common among the Igbo people.",
+    "ingredients": [
+      "Fresh catfish or chicken",
+      "2 tbsp ground crayfish",
+      "2 scotch bonnet peppers",
+      "Utazi leaves",
+      "Yam (for thickening)",
+      "Seasoning cubes",
+      "Salt"
+    ],
+    "steps": [
+      "Boil yam cubes until soft, then pound into a smooth paste for thickening.",
+      "Cook catfish or chicken with seasoning until tender.",
+      "Add crayfish, ground pepper, and yam paste to the pot. Stir well.",
+      "Add utazi leaves last for aroma and slight bitterness.",
+      "Serve hot with pounded yam or fufu."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Suya",
+    "category": "dinner",
+    "image": "assets/images/suya.jpg",
+    "description": "Spicy, smoky skewered beef grilled with suya spice mix.",
+    "ingredients": [
+      "500g beef, thinly sliced",
+      "3 tbsp suya spice mix (yaji)",
+      "2 tbsp groundnut oil",
+      "Onions and tomatoes for serving"
+    ],
+    "steps": [
+      "Marinate beef slices in groundnut oil and suya spice mix for at least 1 hour.",
+      "Thread beef onto skewers and grill over open flame or in an oven until fully cooked and slightly charred.",
+      "Sprinkle extra suya spice and serve hot with sliced onions, tomatoes, and cucumber."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Puff-Puff",
+    "category": "dessert",
+    "image": "assets/images/puffpuff.jpg",
+    "description": "Sweet, fluffy deep-fried dough balls, a favorite Nigerian street snack.",
+    "ingredients": [
+      "2 cups flour",
+      "1/2 cup sugar",
+      "1 tsp dry yeast",
+      "1/2 tsp nutmeg",
+      "Warm water",
+      "Vegetable oil for frying"
+    ],
+    "steps": [
+      "Mix flour, sugar, yeast, and nutmeg in a bowl.",
+      "Add warm water gradually to form a thick but smooth batter.",
+      "Cover the bowl with a cloth and let it rise for 1 hour until doubled in size.",
+      "Heat oil in a deep pan and scoop batter in small portions.",
+      "Fry until golden brown and drain on paper towels.",
+      "Serve warm, optionally dusted with powdered sugar."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Chin Chin",
+    "category": "dessert",
+    "image": "assets/images/chinchin.jpg",
+    "description": "Crunchy fried snack made from flour, sugar, and milk.",
+    "ingredients": [
+      "3 cups flour",
+      "1/2 cup sugar",
+      "1/2 cup milk",
+      "1/2 cup butter",
+      "1 egg",
+      "Vegetable oil"
+    ],
+    "steps": [
+      "Mix flour, sugar, milk, butter, and egg into a smooth dough.",
+      "Roll out dough and cut into small cubes or strips.",
+      "Fry in hot oil until golden brown and crispy.",
+      "Cool completely and store in airtight container."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Nigerian Meat Pie",
+    "category": "dessert",
+    "image": "assets/images/meatpie.jpg",
+    "description": "Buttery pastry filled with minced meat, potatoes, and carrots.",
+    "ingredients": [
+      "3 cups flour",
+      "1/2 cup butter",
+      "1/2 tsp baking powder",
+      "1 egg",
+      "1/2 cup cold water",
+      "200g minced beef",
+      "1 carrot, diced",
+      "1 potato, diced",
+      "1 onion"
+    ],
+    "steps": [
+      "Prepare the filling by frying onions, minced beef, carrots, and potatoes until cooked. Season well.",
+      "Make pastry by mixing flour, baking powder, butter, and water into a dough.",
+      "Roll out dough, cut circles, and place filling inside each.",
+      "Fold into half-moon shapes and seal edges with a fork.",
+      "Brush with beaten egg and bake at 180°C for 30–35 minutes until golden."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Zobo Drink (Hibiscus Tea)",
+    "category": "dessert",
+    "image": "assets/images/zobo.jpg",
+    "description": "Refreshing drink made from hibiscus petals, ginger, and spices.",
+    "ingredients": [
+      "2 cups dried hibiscus petals",
+      "1 tbsp grated ginger",
+      "1 tbsp cloves",
+      "1 pineapple (peels and juice)",
+      "Sugar or honey (to taste)",
+      "Water"
+    ],
+    "steps": [
+      "Rinse hibiscus petals thoroughly and place in a large pot.",
+      "Add water, ginger, cloves, and pineapple peels. Bring to a boil and simmer for 30 minutes.",
+      "Strain the liquid and discard solids.",
+      "Sweeten with sugar or honey while still warm, then chill in the fridge.",
+      "Serve cold with ice cubes."
+    ]
+  }
+]
